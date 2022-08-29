@@ -1,7 +1,9 @@
 # LAIG 2020/2021
 
 White and Tan 3d clone with game logic implemented in Prolog(SICStus) and 3D GUI in WebGL.
-The Scene where the game is played is fully customized by changing the [XML Files](https://github.com/rocas777/LAIG/blob/master/TP3/scenes/LAIG_TP2_T2_G05.xml)
+The Scene where the game is played is fully customized by changing the [XML Files](https://github.com/rocas777/LAIG/blob/master/TP3/scenes/LAIG_TP2_T2_G05.xml).
+
+XML file Parser that renders the scene acording to the XML file information.
 
 [Final Game Running](https://web.fe.up.pt/~up201806206/laig/TP3/)
 

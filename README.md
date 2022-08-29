@@ -1,6 +1,7 @@
 # LAIG 2020/2021
 
-White and Tan 3d clone
+White and Tan 3d clone with game logic implemented in Prolog(SICStus) and 3D GUI in WebGL.
+The Scene where the game is played is fully customized by changing the [XML Files](https://github.com/rocas777/LAIG/blob/master/TP3/scenes/LAIG_TP2_T2_G05.xml)
 
 [Final Game Running](https://web.fe.up.pt/~up201806206/laig/TP3/)
 
